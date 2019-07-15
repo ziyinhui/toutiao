@@ -1,7 +1,7 @@
 <template>
   <el-container class="home-container">
     <el-aside class="my-aside" :width="collapse?'64px':'200px'">
-      <div class="logo" :class="{close:collapse}">12312</div>
+      <div class="logo" :class="{close:collapse}"></div>
       <el-menu
         style="border-right:none"
         default-active="1"
